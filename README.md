@@ -11,9 +11,9 @@ Currently in my third year of studies at Singapore Management University (SMU), 
   - [LJPS](https://github.com/kaniel98/project-spm)
   - [Mobile IOC](https://github.com/project-graduate/mobile-ioc)
   
- <h2>📱 Interaction Design and Prototyping:</h2>
- - [SMUDay](https://www.figma.com/proto/c7JCVIMvjTJ1Hyi9f5uKL8/YourSMUDay_PA?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&node-id=3-41)
- - [Simple Mobile Application Prototype](https://www.figma.com/proto/B0RaCsrfwxZAlqOyl0BitM/prototype?scaling=scale-down&page-id=0%3A1&starting-point-node-id=220%3A6790&show-proto-sidebar=1&node-id=70-1590)
+- <b>📱 Interaction Design and Prototyping (Figma):</b>
+  - [SMUDay](https://www.figma.com/proto/c7JCVIMvjTJ1Hyi9f5uKL8/YourSMUDay_PA?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&node-id=1-2)
+  - [Simple Mobile Application Prototype](https://www.figma.com/proto/B0RaCsrfwxZAlqOyl0BitM/prototype?scaling=scale-down&page-id=0%3A1&starting-point-node-id=220%3A6790&show-proto-sidebar=1&node-id=70-1590)
 
 <h2> 🤳 Connect with me:</h2>
 
