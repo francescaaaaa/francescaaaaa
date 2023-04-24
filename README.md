@@ -12,7 +12,7 @@ Currently in my third year of studies at Singapore Management University (SMU), 
   - [Mobile IOC](https://github.com/project-graduate/mobile-ioc)
   
 - <b>📱 Interaction Design and Prototyping (Figma):</b>
-  - [SMUDay](https://www.figma.com/proto/c7JCVIMvjTJ1Hyi9f5uKL8/YourSMUDay_PA?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&node-id=1-2)
+  - [SMUDay](https://bit.ly/3q2M8XV)
   - [Simple Mobile Application Prototype](https://www.figma.com/proto/B0RaCsrfwxZAlqOyl0BitM/prototype?scaling=scale-down&page-id=0%3A1&starting-point-node-id=37%3A4840&show-proto-sidebar=1&node-id=37-4840)
 
 <h2> 🤳 Connect with me:</h2>
