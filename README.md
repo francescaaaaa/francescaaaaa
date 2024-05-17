@@ -26,9 +26,9 @@ Link to [my portfolio](https://shintabek.netlify.app/) :)
 
 [linkedin]: https://linkedin.com/in/shintabek
 
-[<img align="left" alt="shintabek | Gmail" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-
-[Gmail]: shintabek@gmail.com
+<a href="mailto:shintabek@gmail.com"> 
+  <img align="left" alt="shintabek | Gmail" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> 
+</a>
 
 <!--
 
