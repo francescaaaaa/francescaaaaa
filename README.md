@@ -22,9 +22,13 @@ Link to [my portfolio](https://shintabek.netlify.app/) :)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="shintabek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shintabek | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/shintabek
+
+[<img align="left" alt="shintabek | Gmail" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+
+[Gmail]: shintabek@gmail.com
 
 <!--
 
