@@ -15,7 +15,7 @@ Link to [my portfolio](https://shintabek.netlify.app/) :)
 - <b>Interactive Web Application (ReactJS)</b>
   - [Portfolio Website](https://github.com/francescaaaaa/my-portfolio)
   - [Memory Game](https://github.com/francescaaaaa/memoryGame_assessment)
-  - 
+    
 - <b>📱 Interaction Design and Prototyping (Figma):</b>
   - [YourSMUDay](https://bit.ly/3q2M8XV)
   - [Simple Mobile Application Prototype](https://www.figma.com/proto/B0RaCsrfwxZAlqOyl0BitM/prototype?scaling=scale-down&page-id=0%3A1&starting-point-node-id=37%3A4840&show-proto-sidebar=1&node-id=37-4840)
